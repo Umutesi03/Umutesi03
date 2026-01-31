@@ -1,6 +1,6 @@
 # Hi there, I'm Umutesi 👋
 
-Welcome to my GitHub profile! I’m passionate about learning, building, and sharing awesome projects with the world.
+Welcome to my GitHub profile! I'm passionate about learning, building, and sharing awesome projects with the world.
 
 ## 🚀 About Me
 Curious developer, always seeking new challenges and growth. I love exploring different technologies and turning ideas into reality.
@@ -19,12 +19,35 @@ Curious developer, always seeking new challenges and growth. I love exploring di
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-
 ## 📊 GitHub Stats
-![Umutesi03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umutesi03&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Umutesi03&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umutesi03&layout=compact&hide_progress=false)
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Umutesi03&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Umutesi03&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umutesi03&theme=radical&hide_border=true" alt="Contribution Graph" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Umutesi03&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ## 🌐 Connect with Me
 - [GitHub](https://github.com/Umutesi03)
@@ -35,4 +58,4 @@ Curious developer, always seeking new challenges and growth. I love exploring di
 
 ---
 
-Thanks for visiting! Feel free to explore, star, or fork my repositories. Let’s connect and create something amazing!
+Thanks for visiting! Feel free to explore, star, or fork my repositories. Let's connect and create something amazing!
