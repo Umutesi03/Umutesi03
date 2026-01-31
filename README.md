@@ -1,9 +1,18 @@
 # Hi there, I'm Umutesi 👋
 
+
+---
+
 Welcome to my GitHub profile! I'm passionate about learning, building, and sharing awesome projects with the world.
 
-## 🚀 About Me
-Curious developer, always seeking new challenges and growth. I love exploring different technologies and turning ideas into reality.
+
+
+<div align="center">
+  
+[![wakatime](https://wakatime.com/badge/user/018ee492-9e7b-40c7-b3a7-f044bf9eb161.svg?style=for-the-badge)](https://wakatime.com/@Umutesi)
+![Profile Views](https://komarev.com/ghpvc/?username=Umutesi03&style=for-the-badge&color=blueviolet&label=Profile+Views)
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -44,23 +53,13 @@ Curious developer, always seeking new challenges and growth. I love exploring di
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umutesi03&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Umutesi03&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-</div>
-
----
 
 ## 🌐 Connect with Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umutesi03)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelia-umutesi)
 
 </div>
 
