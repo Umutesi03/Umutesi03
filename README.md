@@ -19,38 +19,52 @@ Curious developer, always seeking new challenges and growth. I love exploring di
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Umutesi03&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+## 📊 GitHub Statistics
 
-## 📊 Most Used Languages
+<div align="center">
+  <img height="180em" src="https://my-github-stats-khaki.vercel.app/api?username=Umutesi03&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://my-github-stats-khaki.vercel.app/api/top-langs/?username=Umutesi03&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Umutesi03&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Umutesi03&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Umutesi03&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-## 📈 Contribution Graph
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umutesi03&theme=radical&hide_border=true" alt="Contribution Graph" />
-</p>
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umutesi03&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Umutesi03&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Umutesi03&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+</div>
+
+---
 
 ## 🌐 Connect with Me
-- [GitHub](https://github.com/Umutesi03)
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umutesi03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+
+</div>
+
+---
 
 ## 💡 Favorite Quote
 > "The only way to do great work is to love what you do."  
@@ -58,4 +72,10 @@ Curious developer, always seeking new challenges and growth. I love exploring di
 
 ---
 
-Thanks for visiting! Feel free to explore, star, or fork my repositories. Let's connect and create something amazing!
+<div align="center">
+
+**✨ Thanks for visiting! ✨**  
+Feel free to explore, star ⭐, or fork my repositories.  
+Let's connect and build something amazing together! 🚀
+
+</div>
