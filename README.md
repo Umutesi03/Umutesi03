@@ -47,11 +47,6 @@ Welcome to my GitHub profile! I'm passionate about learning, building, and shari
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umutesi03&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
-</div>
 
 
 ## 🌐 Connect with Me
